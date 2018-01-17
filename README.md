@@ -13,4 +13,4 @@
 
 目前均已实现.
 
-Dome: http://www.shenhengheng.xyz/tourGuide/
+demo: http://www.shenhengheng.xyz/tourGuide/
