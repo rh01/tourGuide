@@ -10,7 +10,10 @@
 - 景区美图展示
 - 景区详情
 - 景区具体景点展示
+- 加载更多
+- “画中画”效果
+- 瀑布布局
 
 目前均已实现.
 
-demo: http://www.shenhengheng.xyz/tourGuide/
+demo地址: http://www.shenhengheng.xyz/tourGuide/
