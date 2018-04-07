@@ -16,4 +16,4 @@
 
 目前均已实现.
 
-demo地址: http://www.shenhengheng.xyz/tourGuide/ （建议手机下观看）
+demo地址: http://www.shenheng.xyz/tourGuide/ （建议手机下观看）
